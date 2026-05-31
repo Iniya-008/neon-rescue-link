@@ -37,6 +37,12 @@ RoadSoS AI provides a centralized emergency assistance platform that:
 * Improves emergency response coordination
 
 ---
+## **Screenshots**
+
+<img width="1886" height="909" alt="image" src="https://github.com/user-attachments/assets/b73878f4-fb71-4fe0-bdb5-ea00f6e85935" />
+<img width="1893" height="913" alt="image" src="https://github.com/user-attachments/assets/4c9036df-c8df-4749-99a0-95695c99ea75" />
+<img width="1907" height="827" alt="image" src="https://github.com/user-attachments/assets/4e9e9ea5-4c22-4ff0-8fa2-e87356232d7b" />
+<img width="1897" height="908" alt="image" src="https://github.com/user-attachments/assets/6a9432a9-f6b0-4d65-816f-ee8f2c7b6604" />
 
 ## ✨ Key Features
 
@@ -221,9 +227,6 @@ https://github.com/Iniya-008/neon-rescue-link
 Team Name: Technified
 
 National Road Safety Hackathon 2026
-
----
-![Uploading Screenshot 2026-05-31 222128.png…]()
 
 
 
